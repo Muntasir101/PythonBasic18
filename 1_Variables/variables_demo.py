@@ -28,7 +28,8 @@ user_details={
     "name": "Mr.Kevin",
     "email": "test@mail.com",
     "password": 123456,
-    "discount": 10.5
+    "discount": 10.5,
+    "amount":[12, 20, 33]
 }
 
 print("Hello world" + '\n' + "Hello Bangladesh" + '\t' "Dhaka")
